@@ -5,7 +5,7 @@ Deployed application on Github: https://nikki-rees.github.io/employeedirectory/
 
 ## Screenshot
 
-https://github.com/Nikki-Rees/employeedirectory/issues/1#issue-729891801
+https://user-images.githubusercontent.com/63279484/97226394-06fe0000-1828-11eb-8030-1e62befae5ea.png
 
 ## User Story
 
