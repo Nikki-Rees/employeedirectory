@@ -15,10 +15,10 @@ https://user-images.githubusercontent.com/63279484/97226394-06fe0000-1828-11eb-8
 
 An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
 
-##Installation
+## Installation
 
 npm install
 
-##License
+## License
 MIT
 
