@@ -3,7 +3,9 @@ An employee directory allows user to search and filter their employee database, 
 
 Deployed application on Github: https://nikki-rees.github.io/employeedirectory/
 
-##Screenshothttps://github.com/Nikki-Rees/employeedirectory/issues/1#issue-729891801
+## Screenshot
+
+https://github.com/Nikki-Rees/employeedirectory/issues/1#issue-729891801
 
 ## User Story
 
